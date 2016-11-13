@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f1533ea4a8b00d3ac9d1a7d741ee7c6da49e6918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_177d4f2e88a34a146cc4c5475eba3d9fc0a2f099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_a91e3900d62cc19463d98975eab8eb866bb1539f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_11f07bfd270396cd2c5cee40ce37c4deb5e53d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a6b55d122de48006735402c9bb16165e8565b394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_51d92cc134b1c789d15271ed2d50e78ca78d9e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b64c758c8f2a67518e30e0a68f85fdb99e06055f">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\instant-run_4b38d7e61f24dbe10f51456fba5d6d3dcb06b672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f9b2436f290b6027bfe74a31ddf75698895d33f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Carlos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4dcb86e4cb046397b67c6fcfdd0c68f834711654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_118c0c7e678d5908d0cb3b0c157d739d0cfb4fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_00736392474ab0682d03c3e849d7eb1d0781bfe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0af2c45b0f20b38cf039e10b213952c9cb578b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_32bbf10617c4cc0b472ab4581c3e0f2a331d629a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_84d0deac484abf59e1af2c63aedf970071effbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a01c6c32acc2f5376bff5681f3efdc2fdc75eaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ebc38893315d44926552bdec38551ea7d66f61e">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c85ad052953c83671257da814f512a2263d4fbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\adm\Desktop\EsquinaDeMiCiudad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e5340e589640b5374c46988c8f4696c73175edaa.jar" />
+    </item>
+
+</items>
